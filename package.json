@@ -4,11 +4,13 @@
   "description": "Final Homework Assignment",
   "main": "server.js",
   "dependencies": {
+    "axios": "^0.16.2",
     "body-parser": "^1.18.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.12",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-router": "^4.2.0",
     "routes": "^2.1.0",
     "save": "^2.3.1"
   },
