@@ -5,9 +5,9 @@ import React, { Component } from 'react'
 class Query extends Component {
   // Here we set initial variables for the component to be blanks
   state = { 
-    search: "",
-    start: "",
-    end: ""
+    search: "Technology",
+    start: "2009",
+    end: "2017"
   }
 
   // Whenever we detect ANY change in the textbox, we register it.
