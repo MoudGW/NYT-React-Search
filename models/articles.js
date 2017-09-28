@@ -7,10 +7,8 @@ const articleSchema = new Schema({
     synopsis: String,
     date: { type: Date, default: Date.now }
   });
-   
+
 const Article = mongoose.model("Article", articleSchema);
 
 module.exports = Article;
-
-
 
