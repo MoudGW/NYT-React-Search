@@ -15,7 +15,6 @@ const helpers = {
     var formattedStart = start.trim() + "0101";
     var formattedEnd = end.trim() + "1231";
 
-
     console.log("Query Run");
     // Run a query using Axios. Then return the results as an object with an array.
     // See the Axios documentation for details on how we structured this with the params.
