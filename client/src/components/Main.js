@@ -17,7 +17,7 @@ class Main extends Component {
           <nav className="navbar navbar-default">
             <div className="container-fluid">
               <div className="navbar-header">
-                <button
+                {/* <button
                   type="button"
                   className="navbar-toggle"
                   data-toggle="collapse"
@@ -28,7 +28,7 @@ class Main extends Component {
                   <span className="icon-bar"></span>
                   <span className="icon-bar"></span>
                 </button>
-                <Link className="navbar-brand" to="/">NYT-React</Link>
+                <Link className="navbar-brand" to="/">NYT-React</Link> */}
               </div>
 
               <div className="collapse navbar-collapse navbar-ex1-collapse">

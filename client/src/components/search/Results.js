@@ -23,6 +23,7 @@ class Results extends Component {
   }
 
   // A helper method for mapping through our articles and outputting some HTML
+
   renderArticles = () => {
     return this.props.results.docs.map((article, index) => {
 
